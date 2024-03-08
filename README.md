@@ -1,4 +1,4 @@
-- 👋 Oiee! Eu sou a Gabriela
+Oiee! Eu sou a Gabriela
 
 
 <!---
