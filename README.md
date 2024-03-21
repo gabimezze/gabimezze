@@ -1,4 +1,4 @@
-Hii, I'm Gabriela, Systems Analysis and Development student at Fiap and streamer at Twitch!
+## Hii, I'm Gabriela, Systems Analysis and Development student at Fiap and streamer at Twitch!
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
