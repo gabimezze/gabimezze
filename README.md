@@ -1,4 +1,4 @@
-Oiee, eu sou a Gabriela, estudante de ADS na Fiap e streamer na Twitch!
+Hii, I'm Gabriela, Systems Analysis and Development student at Fiap and streamer at Twitch!
 
 <a href="https://www.twitch.tv/sunzuri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/KA9VErzBWq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
