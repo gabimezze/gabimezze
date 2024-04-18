@@ -1,4 +1,4 @@
-## 👋 Hii there
+## 💜 Hii there
 
 I'm Gabriela, Systems Analysis and Development student at Fiap and streamer at Twitch!
 
