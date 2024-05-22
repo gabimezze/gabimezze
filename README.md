@@ -4,6 +4,8 @@
 I'm gaining experience and knowledge from projects done at university, interested in specializing in the <strong>front-end</strong> area.<br></p>
 <p> Fun fact, I like starbucks coffee!</p>
 
+##
+
 ## 🖥️ Experience
 
 <div style="display: inline_block">
