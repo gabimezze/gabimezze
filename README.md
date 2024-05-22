@@ -12,7 +12,7 @@ I'm Gabriela, Systems Analysis and Development student at <strong>Fiap</strong> 
 <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-#
+
 
 
 
