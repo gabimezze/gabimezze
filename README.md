@@ -1,7 +1,7 @@
 ## 💜 Hii there
 
-<p> I'm Gabriela, Systems Analysis and Development student at <strong>Fiap<strong> with a one semester.<br>
-I'm gaining experience and knowledge from projects done at university, interested in specializing in the <strong>front-end<strong> area.<br></p>
+<p>I'm Gabriela, Systems Analysis and Development student at <strong>Fiap</strong> with a one semester.<br>
+I'm gaining experience and knowledge from projects done at university, interested in specializing in the <strong>front-end</strong> area.<br></p>
 <p> Fun fact: I like starbucks cofee!</p>
 
 ## 🖥️ Experience
