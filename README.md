@@ -18,4 +18,6 @@ I'm gaining experience and knowledge from projects done at university, intereste
 
 ##
 
+<div>
 <img align="center" alt="Gif-cat-coffee" src="https://media1.tenor.com/m/2Q9YvPkxeqUAAAAC/sip-anime.gif"
+</div>
