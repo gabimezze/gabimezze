@@ -21,5 +21,5 @@ I'm Gabriela, Systems Analysis and Development student at <strong>Fiap</strong> 
 
 
 <div>
-<img align="center" alt="Gif-cat-sailor" src="https://i.gifer.com/1z8v.gif"
+<img align="center" alt="Gif-cat-cute" src="https://i.pinimg.com/originals/16/ab/17/16ab17a98a7abb5c015b533236dc110d.gif"
 </div>
