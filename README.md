@@ -17,7 +17,7 @@ I'm Gabriela, Systems Analysis and Development student at <strong>Fiap</strong> 
 
 
 ### Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabimezze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielames) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sunzurii) [![Twitch](https://img.shields.io/badge/Twitch-%238000FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/gabimezze) [![Discord](https://img.shields.io/badge/Discord-%235858FA.svg?logo=Discord&logoColor=white)](https://discord.gg/7UVeznRyW9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabimezze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabimezze) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gabimezze) [![Twitch](https://img.shields.io/badge/Twitch-%238000FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/gabimezze) [![Discord](https://img.shields.io/badge/Discord-%235858FA.svg?logo=Discord&logoColor=white)](https://discord.gg/7UVeznRyW9)
 
 
 <div>
