@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EE1EF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Gabriela,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
-
 <br>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EE1EF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Gabriela,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+<br>
 I'm a Systems Analysis and Development student at <strong>Fiap</strong> with a one semester.
 + I'm gaining experience and knowledge from projects done at university 
 + Interested in specializing in the <strong>front-end</strong> area.
