@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EE1EF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Gabriela,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
-<br>
 ## About me
 I'm a Systems Analysis and Development student at <strong>Fiap</strong> with a one semester.
 + I'm gaining experience and knowledge from projects done at university 
@@ -8,7 +7,6 @@ I'm a Systems Analysis and Development student at <strong>Fiap</strong> with a o
 
 
 ## Expirence
-<br>
 <div style="display: inline_block">
 <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +17,6 @@ I'm a Systems Analysis and Development student at <strong>Fiap</strong> with a o
 
 
 ### Social
-<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabimezze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabimezze) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gabimezze) [![Twitch](https://img.shields.io/badge/Twitch-%238000FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/gabimezze) [![Discord](https://img.shields.io/badge/Discord-%235858FA.svg?logo=Discord&logoColor=white)](https://discord.gg/7UVeznRyW9)
 
 
