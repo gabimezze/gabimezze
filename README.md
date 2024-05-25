@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EE1EF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Gabriela,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+
 <div style="display: inline_block">
 <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
