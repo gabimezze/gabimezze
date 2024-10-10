@@ -6,7 +6,7 @@
 
 
 ### 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fiap e estou no 2° semestre.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e estou no 2° semestre.
 + Estou adquirindo experiência e conhecimento com os projetos realizados na universidade 
 + Interessada em se especializar na área de <strong>full-stack</strong>.
 
