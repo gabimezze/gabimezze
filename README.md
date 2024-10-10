@@ -3,7 +3,7 @@
 > “Não deixem os trouxas te colocarem para baixo” — Rony Weasley
 
 ### 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fiap e estou no nono semestre.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fiap e estou no 2° semestre.
 + Estou adquirindo experiência e conhecimento com os projetos realizados na universidade 
 + Interessado em se especializar na área de <strong>full-stack</strong>.
 
